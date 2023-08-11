@@ -1,0 +1,42 @@
+body
+{
+    background-image: linear-gradient(to right top, hsl(350, 100%, 88%), #ffc0cb, #ffc0cb, #ffc0cb, #ffc0cb, #ffc0cb);
+    color: white;
+}
+
+.heading{
+
+    width: 80%;
+    font-size: 22px;
+    background-color:hsl(0, 0%, 100%);
+    color: black;
+}
+
+#result{ 
+
+    border: 2px dashed rgb(0, 0, 0);
+    width: 350px;
+    height: 300px;
+}
+
+#camera{
+
+    border: 2px dashed rgb(0, 0, 0);
+    width: 350px;
+    height: 300px;
+}
+
+.noo, ora, ron{
+
+    color: rgb(0, 0, 0);
+}
+
+#im{
+
+    background-image: linear-gradient(to right top, hsl(350, 100%, 79%), #ff94a6, #ff94a6, #ff7c92, #ff7c92, #ff7c92);
+}
+
+#ci{
+
+    background-image: linear-gradient(to right top, hsl(350, 100%, 79%), #ff94a6, #ff94a6, #ff7c92, #ff7c92, #ff7c92);
+}
